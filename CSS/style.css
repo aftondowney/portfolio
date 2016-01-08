@@ -35,7 +35,7 @@ img {
 
 }
 
-p {
+.col-sm-6.text-center p {
 	font-size: 20px;
 	color: #495054;
 	font-weight: bold;
