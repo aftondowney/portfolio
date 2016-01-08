@@ -1,0 +1,32 @@
+.navbar {
+	background-color: #495054;
+	color: #ffffff;
+}
+
+.navbar-header.navbar-brand a {
+	color: #ffffff;
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color: #e3e8ea;
+	font-size: 20px;
+}
+
+body {
+	background-color: #e3e8ea;
+}
+
+h1 {
+	color:#495054;
+}
+
+img {
+	border-radius: 100%;
+	width: 100%;
+
+}
+
+p {
+	font-size: 20px;
+	color:#495054;
+}
