@@ -3,8 +3,10 @@
 	color: #ffffff;
 }
 
-.navbar-header.navbar-brand a {
-	color: #ffffff;
+.navbar-default .navbar-brand {
+	color: #e3e8ea;
+	font-size: 30px;
+	margin-left: 5px !important;
 }
 
 .nav.navbar-nav.navbar-right li a {
@@ -23,10 +25,13 @@ h1 {
 img {
 	border-radius: 100%;
 	width: 100%;
+	margin-top: 40px;
 
 }
 
 p {
 	font-size: 20px;
 	color:#495054;
+	margin-top: 125px;
+	margin-left: 40px;
 }
